@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: default_ecommerce_secret
+  secret: prd_ecommerce_secret
 
 gateway:
   ip: localhost
