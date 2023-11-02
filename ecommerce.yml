@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: user_token_user_service
+  secret: vvvvvvvv111111
 
 gateway:
   ip: localhost
